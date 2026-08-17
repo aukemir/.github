@@ -1,8 +1,8 @@
 # Aukemir
 
-**Experimental research on designed representations for transferable reasoning in dynamic systems.**
+**Experimental research on designed representations for reasoning and decision-making in complex systems.**
 
-Aukemir is an independent experimental research project investigating whether deliberately designed representations can transform abstract computational structure into functional, human-facing representations for reasoning and intervention.
+Aukemir is an independent experimental research project investigating whether deliberately structured representations can make important structure in complex quantitative problems easier for humans to inspect and reason about.
 
 Our long-term direction is simple to state and difficult to earn:
 
@@ -10,48 +10,60 @@ Our long-term direction is simple to state and difficult to earn:
 
 ## Current research
 
-Our first research program studies whether finite-horizon intervention structure can be transformed into a representation that supports counterfactual intervention decisions across dynamic systems different from those encountered during training.
+Our first research program tests whether deliberately structured representations can improve human inference and intervention reasoning beyond competent conventional reporting.
 
-The program is designed to distinguish genuine transfer from memorization, shortcut learning, conventional visualization, explicit rules, arbitrary codes, and direct machine recommendation.
+The experimental program is designed to distinguish genuine learning and transfer from memorization, superficial cues, explicit rules, conventional visualization, and direct machine recommendation.
 
 ## Current evidence
 
-| Layer | Status |
+The current system has passed an **internal synthetic reproducibility and held-out technical evaluation program**.
+
+External computational reproduction and human decision-value testing remain pending.
+
+| Evidence layer | Current status |
 |---|---|
-| Scientific hypothesis | Active and falsifiable |
-| First formal intervention object | Developed |
-| Technical research architecture | Built |
-| Synthetic end-to-end integration | Completed |
+| Research hypothesis | Active and falsifiable |
+| Internal technical architecture | Built |
+| Internal synthetic evaluation | Completed |
+| Held-out technical evaluation | Completed internally |
+| External computational reproduction | Pending |
 | Human validation | Not yet begun |
 | Human learning evidence | Not demonstrated |
 | Far-transfer evidence | Not demonstrated |
-| New human capability | Not demonstrated |
+| New functional human capability | Not demonstrated |
 | Biological workflow validation | Not demonstrated |
 | Commercial validation | Open |
 
-**Current evidence is technical and synthetic.**
+**Internal technical success is not human evidence.**
 
-Human participants have not yet been tested, so Aukemir does not currently claim that learning, far transfer, counterfactual improvement, cognitive efficiency, retention, or a new functional human capability has been demonstrated.
+Aukemir does not currently claim that learning, far transfer, counterfactual improvement, cognitive efficiency, retention, biological efficacy, or a new human capability has been demonstrated.
 
-## What will be published here
+## Public evidence policy
 
-This organization will progressively contain selected public artifacts from the Aukemir research program, including:
+This GitHub organization provides selected, evidence-bounded public provenance for the Aukemir research program.
 
-- technical specifications
-- reproducible computational examples
-- selected benchmark documentation
-- research and build records
-- analysis tools
-- experimental-method documentation
-- results that have cleared scientific and disclosure review
+Public materials may include:
 
-Not every internal artifact will be public. Reviewer-confidential material, potentially sensitive implementation details, unreleased experimental components, and material requiring additional intellectual-property or disclosure review will remain outside the public repositories.
+- research questions
+- evidence states
+- milestone records
+- selected non-sensitive research documentation
+- public scientific outputs
+- future non-core reproducibility tools that clear disclosure review
+
+Core mechanism details, exact algorithms, benchmark internals, answer-bearing structures, participant-facing experimental materials, and private reproducibility packages are not publicly released at the current stage.
 
 ## How we work
 
-Aukemir is built around explicit hypotheses, competing explanations, strong controls, versioned technical artifacts, predefined evidence thresholds, and kill criteria.
+Aukemir is built around:
 
-A negative result is scientifically useful if it eliminates a hypothesis cleanly.
+- explicit hypotheses
+- competing explanations
+- strong controls
+- versioned artifacts
+- predefined evidence thresholds
+- negative-result preservation
+- kill criteria
 
 > **Ambitious questions. Explicit falsification. Evidence before claims.**
 
@@ -59,10 +71,9 @@ A negative result is scientifically useful if it eliminates a hypothesis cleanly
 
 Aukemir was founded and is led by **Isabella Salcedo Tuiran**, medical researcher and scientific founder.
 
-GitHub: [@salcedoisabella](https://github.com/salcedoisabella)
-
-LinkedIn: [Isabella Salcedo Tuiran](https://www.linkedin.com/in/isabella-salcedo-tuiran-160247370)
+- GitHub: [@salcedoisabella](https://github.com/salcedoisabella)
+- LinkedIn: [Isabella Salcedo Tuiran](https://www.linkedin.com/in/isabella-salcedo-tuiran-160247370)
 
 ---
 
-*Selected technical artifacts will be released progressively as they clear scientific, reproducibility, and disclosure review.*
+*Public materials are released selectively and do not imply external validation, human efficacy, product validation, or commercial validation.*
