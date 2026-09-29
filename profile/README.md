@@ -1,56 +1,57 @@
 # Aukemir
 
-**Human De Novo Capability — engineering functions beyond the native human repertoire.**
+**Human Capability Engineering — capabilities beyond the native human repertoire.**
 
-Aukemir is a frontier scientific company developing the foundations for a discipline of **human capability engineering**: specifying, building, testing and, where evidence and mechanism justify it, progressively integrating functional capabilities that typical humans do not naturally possess.
+Aukemir is a frontier scientific company building the scientific and engineering systems required to test whether genuinely new human capabilities can be made real.
 
 > **Treat human limits as hypotheses.**
 
 ## North Star
 
-The long-range objective is not a learning product, a dashboard, a QSP tool or a single interface.
+Aukemir's long-range objective is to make **human capability itself** an engineering frontier: define a function beyond the native repertoire, identify the mechanism required to support it, build the measurement system, challenge the strongest alternative explanations, and deepen integration only when evidence earns the next step.
 
-Aukemir is investigating whether human capability itself can become a rigorous engineering object — from non-native perception and additional degrees of action to, where justified, new functions supported by neural or biological substrate itself.
+This is not a claim that a new human capability already exists.
 
-This ambition is evidence-gated. A long-range biological destination does **not** mean every capability must progress to biological implementation, and it does not create a shortcut from early computational work to neural or biological claims.
+## Current direction
 
-## Current program — H1 / CP-01
+Aukemir's current frontier work investigates **biological and biohybrid routes toward new human capabilities**.
 
-Current execution remains at **H1: Computational Capability Substrate**.
+The present stage is deliberately pre-claim. Current work includes:
 
-The first controlled substrate is **Finite-Horizon Local Intervention Geometry (LIG)**. LIG is being used to make capability specification, independent ground truth, equivalence, leakage control, strong alternatives, reproducibility and falsification concrete enough to test.
+- mechanistic and quantitative feasibility modeling
+- candidate-architecture development
+- non-biological measurement-stack qualification
+- artifact and causal-attribution design
+- external technical challenge
+- host, equipment and execution-path preparation
 
-LIG is **not** the company endpoint, a future sensory signal, a neural code or a biological mechanism.
-
-## Capability-engineering hypothesis
-
-Across materially different future substrates, Aukemir is testing whether a common engineering discipline can be reused:
-
-**specify the function → establish independent truth → control leakage and confounds → compare strong alternatives → require closed-loop use → test transfer and integration → replicate → deepen the modality only when justified**
-
-**Current method status: CEM-E0 — architecture only.**
-
-Aukemir has defined this cross-substrate hypothesis prospectively. It has not yet demonstrated that the method generalizes beyond LIG.
+No claim-bearing wet-lab result has been produced in the current program.
 
 ## Evidence boundary
 
 | Evidence layer | Current public status |
 |---|---|
-| H1 / CP-01 | Active |
-| Internal technical architecture | Built |
-| Internal synthetic evaluation | Completed |
-| Held-out technical evaluation | Completed internally |
-| Prior negative scientific attempts | 2 preserved |
-| External computational executions returned | 0 |
-| Human participants / human data | 0 / 0 |
-| De novo human capability demonstrated | 0 |
-| H3 synthetic capability evidence | 0 |
-| H4 neural capability evidence | 0 |
-| H5 biological capability evidence | 0 |
-| Cross-substrate method evidence | CEM-E0 — architecture only |
+| Company field | Human Capability Engineering |
+| Current frontier research | Active |
+| Internal architecture / quantitative design | Developed |
+| Non-biological measurement software | Runnable internally |
+| Physical measurement-stack qualification | Pending |
+| External technical challenge | Underway |
+| Claim-bearing wet-lab result | 0 |
+| Human participants / human capability data | 0 / 0 |
+| New human capability demonstrated | No |
+| World-first claim | Not authorized |
 | Commercial validation | Open |
 
-**Internal technical success is not human evidence.** Negative results remain part of the scientific lineage rather than being reinterpreted away.
+**Internal architecture or software readiness is not physical evidence and is not human capability evidence.**
+
+## Research lineage
+
+Aukemir's earlier computational work, including **Finite-Horizon Local Intervention Geometry (LIG)**, remains preserved as prior technical and scientific provenance.
+
+That work helped establish practices around explicit specification, reproducibility, negative-result preservation, falsification and claim control. It is now a **legacy research asset**, not the current company wedge or current frontier program.
+
+Historical evidence keeps its original evidence ceiling. A change in company direction does not retroactively promote or erase earlier results.
 
 ## Public evidence and disclosure policy
 
@@ -58,14 +59,13 @@ This GitHub organization exposes selected, evidence-bounded public provenance. P
 
 The following remain non-public by default:
 
-- core mechanism mathematics and algorithms
-- benchmark-generation internals and sealed truth structures
-- proprietary representation / encoding mechanics
-- participant-facing experimental materials
-- private reproducibility packages and source code
+- enabling molecular or biological implementation details
+- unpublished candidate-architecture details
+- claim-bearing measurement thresholds and control logic
 - unreleased experimental protocols
-- enabling neural or biological implementation detail
-- other IP-sensitive technical documentation
+- private reproducibility packages and source code
+- host-specific or vendor-specific implementation detail
+- IP-sensitive technical documentation
 
 A public architecture statement is not permission to release an enabling implementation.
 
@@ -87,4 +87,4 @@ Aukemir was founded and is led by **Isabella Salcedo Tuiran — Founder & Resear
 
 ---
 
-*Public materials communicate ambition and current architecture while preserving the evidence ceiling. They do not imply external validation, human efficacy, neural or biological capability, product validation or commercial validation.*
+*Current public materials describe a research direction and present evidence state. They do not imply a demonstrated new human capability, biological efficacy, human modification, external validation, product-market fit or a world-first result.*
