@@ -26,7 +26,11 @@ Why electrogenesis first?
 - electricity can also become a reusable control or energy interface
 - if the relevant biology, scaling and control work, later capability programs can build on the same infrastructure instead of starting from zero
 
-Possible downstream directions include **electromagnetic interaction** and later forms of field-mediated physical-world control.
+The preserved long-range roadmap is more explicit:
+
+**P01 — Voluntary Human Electrogenesis → field-mediated interaction → P02 — Intent-Driven Matter Reconfiguration.**
+
+P02 is the major long-horizon matter-control branch: human intent coupled to controlled reconfiguration of matter toward specified physical states, potentially reaching molecular or atomic scales as the enabling physics and engineering mature.
 
 ## Current state
 
@@ -39,7 +43,8 @@ Possible downstream directions include **electromagnetic interaction** and later
 | Physical measurement-stack qualification | Pending |
 | External technical review | Active |
 | Claim-bearing biological execution | Next gated phase |
-| Human integration | Later program stage |
+| Human integration | Later Program 01 stage |
+| Program 02 frontier | Intent-Driven Matter Reconfiguration — preserved long-horizon branch |
 
 ## Ambition does not prove evidence
 
