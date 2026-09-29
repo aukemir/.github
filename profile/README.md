@@ -2,96 +2,62 @@
 
 **Building superhuman capabilities beyond the native human repertoire, one capability at a time.**
 
-Aukemir is a frontier science company working to add new biological capabilities to the human repertoire, not just improve the ones humans already have.
-
-> **Build one capability until it becomes a measured fact. Then use what becomes true to reach the next.**
+Aukemir is a frontier science company working to add new biological capabilities to the human repertoire.
 
 ## North Star
 
-Aukemir's long-range objective is to build a sequence of rigorously demonstrated capabilities that ordinary humans do not naturally possess.
+Aukemir's long-range objective is to build a sequence of capabilities that ordinary humans do not naturally possess.
 
 The company thesis is **compounding capability engineering**: each successful program should create mechanisms, control interfaces, measurement systems, biological-integration knowledge and execution infrastructure that reduce the distance to the next capability.
 
-This is a long-range research direction, not a claim that any superhuman capability has already been demonstrated.
+> **Build one capability until it becomes a measured fact. Then use what becomes true to reach the next.**
 
-## First capability — voluntary human electrogenesis
+## Program 01 — Voluntary Human Electrogenesis
 
-Aukemir's first publicly named capability target is **voluntary human electrogenesis**: a future capability in which a person could generate controlled electrical output on demand.
+Aukemir is starting with **voluntary human electrogenesis**: controlled electrical output generated on demand.
 
-The capability-level target is deliberately more ambitious than the current experiment.
+The immediate scientific objective is narrower than the human-level endpoint:
 
-The immediate scientific question is narrower:
+> **Can a human-compatible biological system produce reproducible, directional electrical output into a real passive load under strong artifact controls?**
 
-> **Can a human-compatible biological system produce reproducible, directional electrical output into a real passive load, under controls strong enough to distinguish biological output from measurement and environmental artifacts?**
+Why electrogenesis first?
 
-Why start here?
-
-- electrical output is itself a genuinely new human functional target
+- electrical output is itself a new human functional target
 - electricity can also become a reusable control or energy interface
-- if the biology, control and scaling survive their gates, later capability programs could build on the same infrastructure rather than starting from zero
+- if the relevant biology, scaling and control work, later capability programs can build on the same infrastructure instead of starting from zero
 
-Possible downstream directions include **electromagnetic interaction** and other forms of physical-world control. Those remain contingent capability classes, not active results or guaranteed programs.
+Possible downstream directions include **electromagnetic interaction** and later forms of field-mediated physical-world control.
 
 ## Current state
 
-The present program remains pre-claim. Current work includes:
-
-- quantitative feasibility modeling
-- candidate-architecture development
-- non-biological measurement-stack qualification
-- fail-closed acquisition / provenance software
-- artifact and causal-attribution design
-- external technical challenge
-- host, equipment and execution-path preparation
-
-No claim-bearing wet-lab result has been produced in the current program.
-
-## Evidence boundary
-
-| Evidence layer | Current public status |
+| Program layer | Current state |
 |---|---|
-| Company mission | Build superhuman capabilities beyond the native repertoire |
-| First capability target | Voluntary human electrogenesis |
-| Current scientific question | Directional electrical output from a human-compatible biological system into a passive load |
-| Internal architecture / quantitative design | Developed |
-| Non-biological measurement software | Runnable internally |
+| Capability target | Voluntary human electrogenesis |
+| First physical primitive | Directional electrical output into a passive load |
+| Internal architecture / quantitative design | Selected / developed |
+| M00 measurement + provenance runtime | v0.4, runnable |
 | Physical measurement-stack qualification | Pending |
-| External technical challenge | Underway |
-| Claim-bearing wet-lab result | 0 |
-| Human participants / human capability data | 0 / 0 |
-| Electrogenesis demonstrated | No |
-| World-first claim | Not authorized |
-| Commercial validation | Open |
+| External technical review | Active |
+| Claim-bearing biological execution | Next gated phase |
+| Human integration | Later program stage |
 
-**A defined capability target is not capability evidence. Internal architecture or software readiness is not physical evidence. Physical evidence is not automatically human capability evidence.**
+## Ambition does not prove evidence
+
+Aukemir keeps the ambition large and the experiments narrow.
+
+A capability advances only when the current layer survives measurement, artifact, causality and reproducibility challenges. The public Evidence Registry tracks the state of those layers as they change.
 
 ## Research lineage
 
-Aukemir's earlier computational work, including **Finite-Horizon Local Intervention Geometry (LIG)**, remains preserved as prior technical and scientific provenance.
+Aukemir's earlier computational research, including **Finite-Horizon Local Intervention Geometry (LIG)**, remains preserved as prior technical and scientific provenance.
 
-That work established practices around explicit specification, reproducibility, negative-result preservation, falsification and claim control. It is now a **legacy research asset**, not the current company wedge or active capability program.
-
-Historical evidence keeps its original evidence ceiling. A change in company direction does not retroactively promote or erase earlier results.
+That work helped establish practices around explicit specification, reproducibility, negative-result preservation, falsification and claim control. It is now a **legacy research asset** rather than the active company program.
 
 ## Public disclosure boundary
 
-Public material may identify the company thesis, voluntary human electrogenesis as the first capability target, the high-level first scientific question, and directional downstream capability classes.
+Public material may identify the company thesis, Program 01, the human-level target, the high-level first scientific question, and directional downstream capability classes.
 
-The following remain non-public by default:
-
-- protected candidate-architecture names and implementation details
-- internal assay names
-- exact claim-bearing measurement thresholds and statistical promotion logic
-- exact substrate sequencing
-- trigger implementation
-- receptor / channel / gene / construct / vector / dose
-- unreleased experimental protocols
-- private reproducibility packages and source code
-- host-specific or vendor-specific unreleased implementation detail
-- reviewer packet contents and private reviewer comments
-- IP-sensitive technical documentation
-
-A public capability target is not permission to release its enabling implementation.
+Protected implementation detail remains non-public by default, including candidate-architecture internals, assay names, exact thresholds, substrate sequencing, trigger implementation, molecular embodiment, unreleased protocols, private reviewer comments, and IP-sensitive technical documentation.
 
 ## How we work
 
@@ -108,7 +74,3 @@ Aukemir was founded and is led by **Isabella Salcedo Tuiran — Founder & Resear
 - GitHub: [@salcedoisabella](https://github.com/salcedoisabella)
 - LinkedIn: [Isabella Salcedo Tuiran](https://www.linkedin.com/in/isabella-salcedo-tuiran-160247370)
 - ORCID: [0009-0004-1968-9650](https://orcid.org/0009-0004-1968-9650)
-
----
-
-*Voluntary human electrogenesis is a research target, not a demonstrated capability. No claim-bearing wet-lab result or human capability evidence currently exists, and no world-first claim is authorized.*
